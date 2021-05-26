@@ -27,3 +27,7 @@ WeakMap has the same API as Map, but one big difference: you cannot iterate over
 
 ### Set & WeakSet
 
+### Hoisting 
+
+Putting all the declared variables at the top. 
+
